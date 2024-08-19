@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B808B8D3-882D-4110-BCCA-240F210663A9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5718A78-B276-4580-8919-4A542267C9F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seminar/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F5718A78-B276-4580-8919-4A542267C9F2 - e6368e575e138da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seminar.ViewController.greenSlider.getter : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "seminar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/Desktop/seminar/seminar/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "F5718A78-B276-4580-8919-4A542267C9F2 - afb051811c27f4ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seminar.ViewController.greenSlider.setter : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "seminar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/Desktop/seminar/seminar/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "F5718A78-B276-4580-8919-4A542267C9F2 - 352527bcb3749b6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seminar.ViewController.greenSlider.modify : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "seminar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/Desktop/seminar/seminar/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F5718A78-B276-4580-8919-4A542267C9F2 - aa67228acaea230e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seminar.ViewController.greenSlider.modify : Swift.Optional&lt;__C.UISlider&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "seminar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/Desktop/seminar/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "F5718A78-B276-4580-8919-4A542267C9F2 - cfec93ea7e6d256f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seminar.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; seminar.ViewController"
+                  moduleName = "seminar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/Desktop/seminar/seminar/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "215">
+               </Location>
+               <Location
+                  uuid = "F5718A78-B276-4580-8919-4A542267C9F2 - cd38341fbb2cba45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seminar.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;seminar.ViewController&gt;"
+                  moduleName = "seminar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/Desktop/seminar/seminar/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
